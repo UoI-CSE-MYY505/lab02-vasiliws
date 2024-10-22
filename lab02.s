@@ -10,8 +10,7 @@ array: .word 1, 0, 1, 12, 0, 1, 4
     li a2, 2
 prog:
 #-----------------------------
-# Write your code here!
-# Do not remove the prog label or write code above it!
+add s0, zero, zero
 #-----------------------------
 done:
     addi a7, zero, 10 
